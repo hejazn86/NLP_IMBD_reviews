@@ -1,6 +1,6 @@
-# NLP_IMBD_reviews
+# NLP_IMDB_reviews
 
-Building a Natural Language Process model by using IMBD_reviews_dataset 
+Building a Natural Language Process model by using IMDB_reviews_dataset 
 
 ## The purpose of the code:
 
